@@ -23,12 +23,12 @@
     text-align: center;
 }
 
-.popup-buttons {
+.popup-button {
     margin-top: 1.5rem;
 }
 
-.popup-buttons button {
-    background-color: #007;
+.popup-button button {
+    background-color: #007bff;
     color: #FFF;
     padding: 0.6rem 1.5rem;
     border-radius: 5px;
